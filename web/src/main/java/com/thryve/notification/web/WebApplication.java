@@ -1,4 +1,4 @@
-package com.thryve.web;
+package com.thryve.notification.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
