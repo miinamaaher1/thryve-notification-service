@@ -37,6 +37,9 @@ buildNumber.properties
 build/
 out/
 
+# Spring Boot config
+application.properties
+
 # OS-specific
 .DS_Store
 Thumbs.db

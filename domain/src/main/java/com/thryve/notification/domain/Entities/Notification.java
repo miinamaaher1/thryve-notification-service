@@ -15,4 +15,5 @@ public class Notification {
     private LocalDateTime timestamp;
     private String postId;
     private String commentId;
+    private boolean isRead;
 }
